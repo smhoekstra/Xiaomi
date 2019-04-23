@@ -33,3 +33,15 @@ These devices are not easy to pair initially. More information and help is avail
 | **Xiaomi mijia Honeywell Fire Alarm Detector** | **Xiaomi Aqara Leak Sensor** |
 | [![Xiaomi Zigbee Outlet](images/outlet.jpg)](./devicetypes/bspranger/xiaomi-zigbee-outlet.src) | |
 | **Xiaomi Zigbee Outlet**<br>**Note:** We do not recommend this outlet as they may make SmartThings less stable. | |
+
+Model WXKG02LM (2-button) Function Chart
+Action	Side	2016 rev (old FW)*	2016 rev (new FW)	2018 revision
+Single press	Left	button 1 pushed	button 1 pushed	button 1 pushed
+Single press	Right	button 1 pushed	button 2 pushed	button 2 pushed
+Single press	Both	button 1 pushed	button 3 pushed	button 3 pushed
+Hold **	Right			button 1 held
+Hold **	Right			button 2 held
+Hold **	Right			button 3 held
+Double-click	Left			button 4 pushed
+Double-click	Right			button 5 pushed
+Double-click	Both			button 6 pushed
